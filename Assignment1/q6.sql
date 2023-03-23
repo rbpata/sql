@@ -1,4 +1,4 @@
 -- Customer Table
 
-select distinct city,state
+select distinct city, state
 from customer; 
